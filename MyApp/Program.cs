@@ -13,3 +13,10 @@ class Program
         Console.WriteLine($"Hello, {name}!");
     }
 }
+
+
+
+void Hello()
+{
+
+}
